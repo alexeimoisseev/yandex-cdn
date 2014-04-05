@@ -37,3 +37,6 @@ cdnify: {
     },
 }
 ```
+
+
+You can also look to the [example](example).
