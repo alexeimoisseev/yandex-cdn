@@ -1,8 +1,11 @@
 {
-    "name": "yandex-cdn-test",
-    "version": "0.0.0",
-    "devDependencies": {
-        "gulp": "~3.6.0",
-        "gulp-google-cdn": "~0.3.0"
-    }
+  "name": "yandex-cdn-test",
+  "version": "0.0.0",
+  "devDependencies": {
+    "gulp": "~3.6.0",
+    "gulp-google-cdn": "~0.3.0",
+    "grunt": "^0.4.4",
+    "grunt-google-cdn": "^0.4.0",
+    "grunt-copy": "^0.1.0"
+  }
 }
