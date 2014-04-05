@@ -1,0 +1,8 @@
+{
+    "name": "yandex-cdn-test",
+    "version": "0.0.0",
+    "devDependencies": {
+        "gulp": "~3.6.0",
+        "gulp-google-cdn": "~0.3.0"
+    }
+}
