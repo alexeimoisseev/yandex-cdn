@@ -1,6 +1,6 @@
 # yandex-cdn
 
-This is a plugin for gulp-google-cdn for replacing refs to resorces on the [Yandex CDN](http://api.yandex.ru/jslibs).
+This is a plugin for grunt-google-cdn and gulp-google-cdn for replacing refs to resorces on the [Yandex CDN](http://api.yandex.ru/jslibs).
 
 ## How to use with gulp-google-cdn
 
@@ -22,3 +22,6 @@ gulp.task('cdnify', function() {
 
 gulp.task('default', ['cdnify']);
 ```
+
+## How to use with grunt-google-cdn
+TODO
