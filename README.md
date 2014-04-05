@@ -39,4 +39,4 @@ cdnify: {
 ```
 
 
-You can also look to the [example](example).
+You can also look at the [example](example).
