@@ -1,20 +1,31 @@
 {
-    "name": "yandex-cdn",
-    "version": "0.0.1",
-    "description": "Replaces references to resources on the Yandex CDN",
-    "author": {
-        "name": "Alexei Moisseev",
-        "email": "alexmois@ya.ru"
-    },
-    "main": "yandex-cdn.js",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/alexeimoisseev/yandex-cdn.git"
-    },
-    "licences": {
-        "type": "BSD"
-    },
-    "files": [
-        "yandex-cdn.js"
-    ]
+  "name": "yandex-cdn",
+  "version": "0.0.3",
+  "description": "Replaces references to resources on the Yandex CDN",
+  "author": "Alexei Moisseev <alexmois@ya.ru>",
+  "main": "yandex-cdn.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexeimoisseev/yandex-cdn.git"
+  },
+  "licences": {
+    "type": "BSD"
+  },
+  "files": [
+    "yandex-cdn.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/alexeimoisseev/yandex-cdn/issues"
+  },
+  "homepage": "https://github.com/alexeimoisseev/yandex-cdn",
+  "directories": {
+    "example": "example"
+  },
+  "keywords": [
+    "cdn",
+    "grunt",
+    "gulp",
+    "yandex"
+  ],
+  "license": "BSD-2-Clause"
 }
