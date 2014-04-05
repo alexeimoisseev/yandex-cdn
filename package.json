@@ -1,0 +1,20 @@
+{
+    "name": "yandex-cdn",
+    "version": "0.0.1",
+    "description": "Replaces references to resources on the Yandex CDN",
+    "author": {
+        "name": "Alexei Moisseev",
+        "email": "alexmois@ya.ru"
+    },
+    "main": "yandex-cdn.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/alexeimoisseev/yandex-cdn.git"
+    },
+    "licences": {
+        "type": "BSD"
+    },
+    "files": [
+        "yandex-cdn.js"
+    ]
+}
