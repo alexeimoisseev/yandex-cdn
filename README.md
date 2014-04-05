@@ -2,6 +2,8 @@
 
 This is a plugin for grunt-google-cdn and gulp-google-cdn for replacing refs to resorces on the [Yandex CDN](http://api.yandex.ru/jslibs).
 
+Firstly do `npm install --save-dev yandex-cdn`.
+
 ## How to use with gulp-google-cdn
 
 Just pass this module to the cdn option of gulp-google-cdn task:
@@ -24,4 +26,14 @@ gulp.task('default', ['cdnify']);
 ```
 
 ## How to use with grunt-google-cdn
-TODO
+Same as for gulp, just pass this module to the cdn option for cdnify task:
+```
+cdnify: {
+    options: {
+        cdn: require('yandex-cdn')
+    },
+    dist: {
+        html: ['./dist/*.html']
+    },
+}
+```
