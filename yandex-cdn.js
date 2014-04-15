@@ -78,6 +78,12 @@ var yandexCdn = {
         url: function(version) {
             return '//yandex.st/underscore/' + version + '/underscore-min.js';
         }
+    },
+    lodash: {
+        versions: ['2.4.0', '2.4.1'],
+        url: function(version) {
+            return '//yandex.st/lodash/' + version + '/lodash.compat.min.js';
+        }
     }
 }
 
