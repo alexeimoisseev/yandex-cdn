@@ -2,6 +2,15 @@
 
 This is a plugin for grunt-google-cdn and gulp-google-cdn for replacing refs to resorces on the [Yandex CDN](http://api.yandex.ru/jslibs).
 
+Libraries supported (all latest versions):
+- [AngularJS](http://angularjs.org)
+- [BackboneJS](http://backbonejs.org/)
+- [DoJo](http://dojotoolkit.org/)
+- [JQuery](http://jquery.com/)
+- [Modernizr](http://modernizr.com/)
+- [Underscore](http://underscorejs.org/)
+- [Lo-Dash](http://lodash.com/)
+
 Firstly do `npm install --save-dev yandex-cdn`.
 
 ## How to use with gulp-google-cdn
