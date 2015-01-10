@@ -1,6 +1,6 @@
 {
   "name": "yandex-cdn",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Replaces references to resources on the Yandex CDN",
   "author": "Alexei Moisseev <alexmois@ya.ru>",
   "main": "yandex-cdn.js",
